@@ -25,6 +25,8 @@
 		if (backendConfig) {
 			// Save Backend Status to Store
 			await config.set(backendConfig);
+                        // Override the backend name here
+                        await WEBUI_NAME.set('ISI-ROBOT');
 			if ($config.default_locale) {
 				initI18n($config.default_locale);
 			} else {

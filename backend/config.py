@@ -26,7 +26,7 @@ except ImportError:
     log.warning("dotenv not installed, skipping...")
 
 WEBUI_NAME = os.environ.get("WEBUI_NAME", "Open WebUI")
-WEBUI_FAVICON_URL = "https://openwebui.com/favicon.png"
+WEBUI_FAVICON_URL = "{STATIC_DIR}/favicon.png"
 
 ####################################
 # ENV (dev,test,prod)
@@ -191,9 +191,9 @@ if CUSTOM_NAME:
     except Exception as e:
         log.exception(e)
         pass
-else:
-    if WEBUI_NAME != "Open WebUI":
-        WEBUI_NAME += " (Open WebUI)"
+#else:
+    #if WEBUI_NAME != "Open WebUI":
+        #WEBUI_NAME += " (Open WebUI)"
 
 
 ####################################

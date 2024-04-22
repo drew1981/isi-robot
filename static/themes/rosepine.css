@@ -1,22 +1,22 @@
 .rose-pine * {
 	color: #e0def4 !important;
-	stroke: #907aa9 !important;
+	stroke: #00d9ff !important;
 }
 
 .rose-pine .app > * {
-	background-color: #1f1d2e !important;
+	background-color: #315c74 !important;
 }
 
 .rose-pine #nav {
-	background-color: #191724;
+	background-color: #315c74;
 }
 
 .rose-pine .py-2\.5.my-auto.flex.flex-col.justify-between.h-screen {
-	background: #191724;
+	background: #315c74;
 }
 
 .rose-pine .bg-white.dark\:bg-gray-800 {
-	background: #26233a;
+	background: #5841ee;
 }
 
 .rose-pine .w-4.h-4 {
@@ -24,19 +24,19 @@
 }
 
 .rose-pine #chat-textarea {
-	background: #393552;
+	background: #2e4e5e;
 	margin: 0.3rem;
 	padding: 0.5rem;
 }
 
 .rose-pine .bg-gradient-to-t.from-white.dark\:from-gray-800.from-40\%.pb-2 {
-	background: #26233a !important;
+	background: #2e4e5e !important;
 	padding-top: 0.6rem;
 }
 
 .rose-pine
 	.text-white.bg-gray-100.dark\:text-gray-800.dark\:bg-gray-600.disabled.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center {
-	background-color: #6e6a86;
+	background-color: #6a7f86;
 	transition: background-color 0.2s ease-out linear;
 }
 
@@ -55,7 +55,7 @@
 
 .rose-pine
 	.w-full.flex.justify-between.rounded-md.px-3.py-2.hover\:bg-gray-900.bg-gray-900.transition.whitespace-nowrap.text-ellipsis {
-	background-color: #56526e;
+	background-color: #526e6d;
 	font-weight: bold;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .rose-pine .text-xs.text-gray-700.uppercase.bg-gray-50.dark\:bg-gray-700.dark\:text-gray-400 {
-	background-color: #403d52;
+	background-color: #3d4d52;
 }
 
 .rose-pine .scrollbar-hidden.relative.overflow-x-auto.whitespace-nowrap.svelte-3g4avz {
@@ -73,7 +73,7 @@
 }
 
 .rose-pine .base.enter.svelte-ug60r4 {
-	background-color: #393552;
+	background-color: #354a52;
 }
 
 .rose-pine .message.svelte-1nauejd {
@@ -81,35 +81,35 @@
 }
 
 .rose-pine #dropdownDots {
-	background-color: #403d52;
+	background-color: #3d4b52;
 }
 
 .rose-pine .flex.py-2\.5.px-3\.5.w-full.hover\:bg-gray-800.transition:hover {
-	background: #524f67;
+	background: #254f68;
 }
 
 .rose-pine .m-auto.rounded-xl.max-w-full.w-\[40rem\].mx-2.bg-gray-50.dark\:bg-gray-900.shadow-3xl {
-	background-color: #26233a;
+	background-color: #233a32;
 }
 
 .rose-pine
 	.w-full.rounded.p-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.resize-none {
-	background-color: #524f67;
+	background-color: #3d6372;
 }
 
 .rose-pine
 	.w-full.rounded.py-2.px-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.svelte-1vx7r9s {
-	background-color: #524f67;
+	background-color: #3d6372;
 }
 
 .rose-pine
 	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.bg-gray-200.dark\:bg-gray-700 {
-	background-color: #403d52;
+	background-color: #537391;
 }
 
 .rose-pine
 	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.hover\:bg-gray-300.dark\:hover\:bg-gray-800:hover {
-	background-color: #524f67;
+	background-color: #3d6372;
 }
 
 .rose-pine .px-4.py-2.bg-emerald-600.hover\:bg-emerald-700.text-gray-100.transition.rounded {
@@ -117,15 +117,15 @@
 }
 
 .rose-pine #chat-search > * {
-	background-color: #403d52 !important;
+	background-color: #537391 !important;
 }
 
 .rose-pine .svelte-1ee93ns {
-	--primary: #eb6f92 !important;
+	--primary: #6f9aeb !important;
 	--secondary: #e0def4 !important;
 }
 
 .rose-pine .svelte-11kvm4p {
 	--primary: #9ccfd8 !important;
-	--secondary: #1f1d2e !important;
+	--secondary: #1d381f !important;
 }

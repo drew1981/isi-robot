@@ -105,7 +105,7 @@
 						<div>
 							{$i18n.t('Signing in')}
 							{$i18n.t('to')}
-							{$WEBUI_NAME}
+							{$i18n.t('ISI-ROBOT')}
 						</div>
 
 						<div>
@@ -216,5 +216,12 @@
 <style>
 	.font-mona {
 		font-family: 'Mona Sans';
+	}
+
+	.bg-white.dark:bg-gray-900 {
+		background-image: url('/home/andrea/Scrivania/LLM/isi-robot/static/ezgif-5-e35abfd845.gif');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
 	}
 </style>
